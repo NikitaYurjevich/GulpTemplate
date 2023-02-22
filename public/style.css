@@ -1,0 +1,9 @@
+.class-zhopa {
+  width: 150px;
+  height: 100px;
+  background: white;
+  border: 1px solid black;
+}
+.class-zhopa:hover {
+  background: coral;
+}
